@@ -8,3 +8,7 @@ feature-x add second
 
 feature-x local commit 
 feature-x local commit again
+
+develop add second
+develop add third
+ develop
