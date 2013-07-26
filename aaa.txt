@@ -2,13 +2,23 @@ aaaaaaaaaaaaaaaaaaaa
 
 
 develop add first
+<<<<<<< HEAD
 
+=======
+ HEAD
+develop add second
+develop add third
+>>>>>>> feature-x
 feature-x add first
 feature-x add second
 
 feature-x local commit 
+<<<<<<< HEAD
 feature-x local commit again
 
 develop add second
 develop add third
  develop
+=======
+feature-x local commit again c7480de54261be7a6ff6a135990c64c5d0b9a821
+>>>>>>> feature-x
